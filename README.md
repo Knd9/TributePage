@@ -1,6 +1,9 @@
 # TributePage
 
-[//]: #(README.md @Author Candela Spitale)
+<!-- 
+  README.md 
+  @Author Candela Spitale 
+-->
 
 This is a project about a tribute to a music artist Gustavo Cerati. 
 
